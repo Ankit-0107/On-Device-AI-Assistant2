@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OfflineAssistant</string>
+    <string name="shortcut_note_short">Note</string>
+    <string name="shortcut_note_long">Take a Note</string>
+    <string name="shortcut_alarm_short">Alarm</string>
+    <string name="shortcut_alarm_long">Set Alarm</string>
+    <string name="shortcut_voice_short">Voice</string>
+    <string name="shortcut_voice_long">Voice Command</string>
+</resources>
